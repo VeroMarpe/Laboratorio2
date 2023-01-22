@@ -7,7 +7,7 @@ Se tendrán en cuenta las siguientes validaciones:
   - El campo *Nombre* deberá ser de tipo texto.
   - El campo *Email* deberá ser de tipo 'email'.
   - El campo *Clave* no debe tener más de 8 caracteres.
-  - Los valores introducidos en los campos **Clave** y **Confirme su Clave** deberán ser idénticos.
+  - Los valores introducidos en los campos *Clave* y *Confirme su Clave* deberán ser idénticos.
   - Al pulsar el botón **ENVIAR** deberá salir un alert informando de que la inscripción ha sido correcta.
   
   
